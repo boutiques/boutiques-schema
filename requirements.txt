@@ -1,6 +1,6 @@
 jsonschema==2.6.0
 pytest==3.5.0
-requests==2.31.0
+requests==2.32.0
 simplejson==3.13.2
 docopt==0.6.2
 nexus-sdk;
